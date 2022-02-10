@@ -11,13 +11,13 @@
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a></p>
     
-<h3>Requirements ♻</h3>
+Requirements ♻
 ```
 # Python 3.7.8 or Above
 # pdf2image
 # poppler
 ```
-<br>    
+
     
     
 <h3 align="left">Languages That Used:</h3>
