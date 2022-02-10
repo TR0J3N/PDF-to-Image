@@ -10,9 +10,9 @@
     <a href="https://GitHub.com/TR0J3N">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a><br>
-    <img src="https://img.shields.io/github/license/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/TR0J3N/PDF-to-Image?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <img src="https://img.shields.io/github/forks/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="Forks"></p>
+    <img src="https://img.shields.io/github/forks/TR0J3N/PDF-to-Image?style=for-the-badge&logo=appveyor" alt="Forks"></p>
     
 # Requirements ♻
 ```
@@ -33,7 +33,7 @@
 **Python** - https://www.python.org/<br>
 **pdf2image** - https://pypi.org/project/pdf2image/
 
-# Contact The OWNER
+# Contact The OWNER 😍💥
 
 [𝘛𝘙𝘖𝘑3𝘕](https://t.me/troj3n)
 
@@ -51,4 +51,6 @@
 
 <h3 align="left">Languages That Used:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+If There Any Problem You Can Contact me [Here](https://t.me/troj3n) or simply submit a pull request on the readme.
 
