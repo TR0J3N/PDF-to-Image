@@ -9,7 +9,7 @@
     </a>
     <a href="https://GitHub.com/TR0J3N">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
-    </a>
+    </a></p>
     
 <h3>Requirements ♻</h3>
 ```
