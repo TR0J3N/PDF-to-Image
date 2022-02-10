@@ -1,7 +1,7 @@
 <h1 align="center">PDF To Image Converter</h1>
 
 
-#This Is The `Latest` version 
+# This Is The `Latest` version 
 
 <p align="center">
     <a href="https://python.org">
@@ -11,13 +11,20 @@
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a></p>
     
-Requirements ♻
+# Requirements ♻
 ```
-# Python 3.7.8 or Above
+# Python 2.7.9 or Above
 # pdf2image
 # poppler
 ```
-
+# How To Install And Run 🏃🏻‍♂️💨
+```
+1. Download and install Python
+2. Open CMD
+3. Type pip3 install pdf2image
+4. Download This repo and extract
+5. Run pdfconv.py
+```
     
     
 <h3 align="left">Languages That Used:</h3>
