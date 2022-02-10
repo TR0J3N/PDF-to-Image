@@ -26,11 +26,60 @@
 5. Run pdfconv.py
 ```
     
-**POPPLER** - https://github.com/oschwartz10612/poppler-windows
-**Python** - https://www.python.org/
+**POPPLER** - https://github.com/oschwartz10612/poppler-windows<br>
+**Python** - https://www.python.org/<br>
 **pdf2image** - https://pypi.org/project/pdf2image/
 
 # Contact The OWNER
 
+╭━━━━┳━━━┳━━━╮╱╭┳━━━┳━╮╱╭╮
+┃╭╮╭╮┃╭━╮┃╭━╮┃╱┃┃╭━╮┃┃╰╮┃┃
+╰╯┃┃╰┫╰━╯┃┃╱┃┃╱┃┣╯╭╯┃╭╮╰╯┃
+╱╱┃┃╱┃╭╮╭┫┃╱┃┣╮┃┣╮╰╮┃┃╰╮┃┃
+╱╱┃┃╱┃┃┃╰┫╰━╯┃╰╯┃╰━╯┃┃╱┃┃┃
+╱╱╰╯╱╰╯╰━┻━━━┻━━┻━━━┻╯╱╰━╯
+
+<a href="https://t.me/troj3n">
+      <img alt="Telegram" src="https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=tr0j3n&color=blue" />
+    </a>
+<a href="https://www.instagram.com/t_r_o_j_3_n">
+      <img alt="instagram" src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=TROJEN&color=pink" />
+    </a>
+<a href="https://github.com/TR0J3N">
+      <img alt="github" src="https://img.shields.io/static/v1?logo=github&label=Github&message=TR0J3N&color=white" />
+    </a>
+
+
+
 <h3 align="left">Languages That Used:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒
+▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄░░▒▒▒▒▒
+▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██▌░░▒▒▒▒
+▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄███▀░░░░▒▒▒
+▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░█████░▄█░░░░▒▒
+▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░▄████████▀░░░░▒▒
+▒▒░░░░░░░░░░░░░░░░░░░░░░░░▄█████████░░░░░░░▒
+▒░░░░░░░░░░░░░░░░░░░░░░░░░░▄███████▌░░░░░░░▒
+▒░░░░░░░░░░░░░░░░░░░░░░░░▄█████████░░░░░░░░▒
+▒░░░░░░░░░░░░░░░░░░░░░▄███████████▌░░░░░░░░▒
+▒░░░░░░░░░░░░░░░▄▄▄▄██████████████▌░░░░░░░░▒
+▒░░░░░░░░░░░▄▄███████████████████▌░░░░░░░░░▒
+▒░░░░░░░░░▄██████████████████████▌░░░░░░░░░▒
+▒░░░░░░░░████████████████████████░░░░░░░░░░▒
+▒█░░░░░▐██████████▌░▀▀███████████░░░░░░░░░░▒
+▐██░░░▄██████████▌░░░░░░░░░▀██▐█▌░░░░░░░░░▒▒
+▒██████░█████████░░░░░░░░░░░▐█▐█▌░░░░░░░░░▒▒
+▒▒▀▀▀▀░░░██████▀░░░░░░░░░░░░▐█▐█▌░░░░░░░░▒▒▒
+▒▒▒▒▒░░░░▐█████▌░░░░░░░░░░░░▐█▐█▌░░░░░░░▒▒▒▒
+▒▒▒▒▒▒░░░░███▀██░░░░░░░░░░░░░█░█▌░░░░░░▒▒▒▒▒
+▒▒▒▒▒▒▒▒░▐██░░░██░░░░░░░░▄▄████████▄▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒██▌░░░░█▄░░░░░░▄███████████████████
+▒▒▒▒▒▒▒▒▒▐██▒▒░░░██▄▄███████████████████████
+▒▒▒▒▒▒▒▒▒▒▐██▒▒▄████████████████████████████
+▒▒▒▒▒▒▒▒▒▒▄▄████████████████████████████████
+████████████████████████████████████████████
