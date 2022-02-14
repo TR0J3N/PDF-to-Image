@@ -1,7 +1,7 @@
 <h1 align="center">PDF To Image Converter</h1>
 
+# This Is The `Latest` version
 
-# This Is The `Latest` version 
 <img src = "https://wallpapercave.com/wp/wp9234399.jpg">
 <p align="center">
     <a href="https://python.org">
@@ -21,6 +21,9 @@
 # poppler
 ```
 # How To Install And Run 🏃🏻‍♂️💨
+
+## Windows
+
 ```
 1. Download and install Python
 2. Open CMD
@@ -28,7 +31,20 @@
 4. Download This repo and extract
 5. Run pdfconv.py
 ```
-    
+
+## Linux (Debian)
+
+```
+1. Install Python
+2. Open Terminal Emulator
+3. Run these commands
+
+$ sudo apt-get install poppler-utils
+$ pip3 install pdf2image
+$ python pdfcov.py
+
+```
+
 **POPPLER** - https://github.com/oschwartz10612/poppler-windows<br>
 **Python** - https://www.python.org/<br>
 **pdf2image** - https://pypi.org/project/pdf2image/
@@ -47,10 +63,7 @@
       <img alt="github" src="https://img.shields.io/static/v1?logo=github&label=Github&message=TR0J3N&color=white" />
     </a>
 
-
-
 <h3 align="left">Languages That Used:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 If There Any Problem You Can Contact me [Here](https://t.me/troj3n) or simply submit a pull request on the readme.
-
