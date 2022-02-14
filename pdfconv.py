@@ -1,8 +1,15 @@
 #importing Libs
 from pdf2image import convert_from_path
 import os
+import platform
 import shutil
-poppler_path = r"Utils\poppler\Library\bin"
+
+#checks the os and sets the path of poppler
+
+if platform.system() == 'Windows':
+	poppler_path = r"Utils\poppler\Library\bin"
+elif  platform.system() == 'Linux':
+	poppler_path = r"/usr/bin"
 
 #starting The Process
 while True:
@@ -18,7 +25,12 @@ while True:
 
     #Copying The PDF file To The Folder That mentioned Above
     original = pdf_file
-    target = xoxo+r'\convert.pdf'
+    
+    #Changes the directory structure according to the os
+    if platform.system() == 'Windows':
+        target = xoxo+r'\convert.pdf'
+    elif platform.system() == 'Linux':
+        target = xoxo+r'/convert.pdf'
 
     shutil.copyfile(original, target)
     pdf_file = target
