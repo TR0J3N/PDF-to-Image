@@ -13,50 +13,59 @@ elif  platform.system() == 'Linux':
 
 #starting The Process
 while True:
-    print("==============================PDF To Image Converter by @tr0j3n==============================")
+	try:
+	    print("==============================PDF To Image Converter by @tr0j3n==============================")
 
-    #Getting The PDF File
-    pdf_file = input("\n\nPATH To The PDF File: ")
+	    #Getting The PDF File
+	    pdf_file = input("\n\nPATH To The PDF File: ")
 
-    #Getting The Folder Name To Store Files
-    xoxo =input("\nEnter a Name For The Folder: ")
+	    #Getting The Folder Name To Store Files
+	    xoxo =input("\nEnter a Name For The Folder: ")
 
-    os.mkdir(xoxo)
+	    os.mkdir(xoxo)
 
-    #Copying The PDF file To The Folder That mentioned Above
-    original = pdf_file
-    
-    #Changes the directory structure according to the os
-    if platform.system() == 'Windows':
-        target = xoxo+r'\convert.pdf'
-    elif platform.system() == 'Linux':
-        target = xoxo+r'/convert.pdf'
+	    #Copying The PDF file To The Folder That mentioned Above
+	    original = pdf_file
 
-    shutil.copyfile(original, target)
-    pdf_file = target
+	    #Changes the directory structure according to the os
+	    if platform.system() == 'Windows':
+		target = xoxo+r'\convert.pdf'
+	    elif platform.system() == 'Linux':
+		target = xoxo+r'/convert.pdf'
 
-    #Converting
-    pages = convert_from_path(pdf_file,poppler_path=poppler_path)
+	    shutil.copyfile(original, target)
+	    pdf_file = target
 
-
-    img_file = pdf_file.replace(".pdf","")
+	    #Converting
+	    pages = convert_from_path(pdf_file,poppler_path=poppler_path)
 
 
+	    img_file = pdf_file.replace(".pdf","")
 
-    count = 0
-    for page in pages:
-        count+= 1
-        jpeg_file = img_file + "-" +str(count) + ".jpg"
-        page.save(jpeg_file, 'JPEG')
 
-    #deleting The PDF file In The Folder That we created
-    os.remove(target)
-    print("successfully Converted The PDF\n\n")
 
-    #asking For Another Run
-    x = input("Do You Want To Continue Converting Files?\n IF You Want Type = y\n Else Press Enter:  ")
-    if x == "y":
-        continue
-    else:
-        break
-              
+	    count = 0
+	    for page in pages:
+		count+= 1
+		jpeg_file = img_file + "-" +str(count) + ".jpg"
+		page.save(jpeg_file, 'JPEG')
+
+	    #deleting The PDF file In The Folder That we created
+	    os.remove(target)
+	    print("successfully Converted The PDF\n\n")
+
+	    #asking For Another Run
+	    x = input("Do You Want To Continue Converting Files?\n IF You Want Type = y\n Else Press Enter:  ")
+	    if x == "y" or x=="Y":
+		continue
+	    else:
+		break
+	except:
+		print("----------------Error Occured Try Again----------------")
+        	xyz ="\nDo You Wanna Try Again?\n- If You Want type 'y'\n- Else Press Enter"
+        	print (xyz)
+        	x = input(">>>")
+        	if x == "y" or x == "Y":
+            		continue
+        	else:
+            		break
